@@ -1,4 +1,4 @@
-## :dart:  Some mini machine learning projects 
+## :dart: machine learning projects 
 
 - Implementing robust and popular algorithms for classification, such as logistic regression, support vector machines, decision trees,...
 
