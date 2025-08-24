@@ -22,7 +22,7 @@
  - model evaluation and hyperparameter tuning
    - Streamlining workflows
    - k-fold cross-validation
-   - debugginglearning curves and validation curves
+   - Debugging algorithms with learning and validation curves
    - Tuning hyperparameters via grid search
    - confusion matrix
    - evaluation metrics(precision,recall,...)
