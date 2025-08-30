@@ -19,13 +19,13 @@
   
  > - two main categories of dimensionality reduction techniques: feature selection and feature extraction
 
- > - model evaluation and hyperparameter tuning
-   > - Streamlining workflows
-   > - k-fold cross-validation
-   > - Debugging algorithms with learning and validation curves
-   > - Tuning hyperparameters via grid search
-   > - confusion matrix
-   > - evaluation metrics(precision,recall,...)
+ > - **model evaluation and hyperparameter tuning**
+   >  - Streamlining workflows
+   >  - k-fold cross-validation
+   >  - Debugging algorithms with learning and validation curves
+   >  - Tuning hyperparameters via grid search
+   >  - confusion matrix
+   >  - evaluation metrics(precision,recall,...)
 
 
 
